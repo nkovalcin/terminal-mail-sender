@@ -1,0 +1,12 @@
+Subject: Partnership Opportunity with {{Company Name}}
+
+Hi,
+
+I noticed {{Company Name}} in the {{Industry}} space and wanted to reach out about a potential collaboration.
+
+We specialize in digital solutions that help companies like yours streamline their operations and improve their online presence.
+
+Would you be open to a quick 15-minute call to explore how we could work together?
+
+Best regards,
+{{sender_name}}
