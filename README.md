@@ -2,6 +2,17 @@
 
 A Python CLI tool for sending personalized bulk emails from your terminal. Supports CSV company lists, customizable templates, test mode, and rate limiting.
 
+## Table of Contents
+
+- [Features](#features)
+- [Quick Start](#quick-start)
+- [Usage](#usage)
+- [CLI Options](#cli-options)
+- [Template Variables](#template-variables)
+- [Gmail Setup](#gmail-setup)
+- [Requirements](#requirements)
+- [License](#license)
+
 ## Features
 
 - **CSV-based contact list** — load companies from CSV with name, industry, email, location
